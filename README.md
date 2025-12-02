@@ -1,7 +1,3 @@
-<div align="center">
-  <h3>I'm Andreas. A Project Manager and Full Stack Dev from Norway, passionate about modern tech.</h3>
-</div>
-
 ---
 
 About me:<br>
