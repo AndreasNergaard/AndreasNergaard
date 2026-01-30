@@ -9,6 +9,9 @@ About me:<br>
 Currently enrolled to:<br>
 [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
 
+Last public project:<br>
+[Rare Space Minerals](https://exponential-production.itch.io/rare-space-minerals)
+
 Note that most of the project I work on here are maked as private/closed.
 
 #### 🚧 Under construction 🚧
